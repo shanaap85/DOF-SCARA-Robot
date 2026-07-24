@@ -109,21 +109,19 @@ SCARA-Robot-4DOF/
 │
 ├── hardware/
 │   ├── components-list.md
-│   ├── wiring-diagram.png
-│   └── circuit-diagram.png
+│   └──  wiring-diagram.png
+│  
 │
 ├── calculations/
 │   ├── DH-Parameters.pdf
 │   ├── Torque-Calculations.pdf
 │   └── Workspace-Analysis.pdf
 │
-├── images/
+└── images/
     ├── robot.jpg
-    ├── assembly.png
     ├── workspace.png
     ├── cad-model.png
-    ├── circuit.png
-    └── demo.gif
+    └── circuit.png
 
 
 ```
