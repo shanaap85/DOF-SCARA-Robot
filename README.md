@@ -131,7 +131,7 @@ SCARA-Robot-4DOF/
 
 ### 🤖 SCARA Robot
 
-![Robot](images/robot.jpg)
+![Robot](images/robot.png)
 
 ### 🛠️ CAD Design
 
