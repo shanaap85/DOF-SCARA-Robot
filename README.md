@@ -114,8 +114,7 @@ SCARA-Robot-4DOF/
 │
 ├── calculations/
 │   ├── DH-Parameters.pdf
-│   ├── Torque-Calculations.pdf
-│   └── Workspace-Analysis.pdf
+│   └── Torque-Calculations.pdf
 │
 └── images/
     ├── robot.jpg
